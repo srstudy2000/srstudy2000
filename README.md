@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rui Shao
-- 👀 I’m interested in Computer Vison.
-- 📫 Reach me at shaoruistudy@163.com
+- 👀 I’m interested in Legal Artificial Intelligence, Deep Learning Interpretability and Computer Vison.
+- 📫 Reach me at shaoruistudy@163.com or 	PhD.SR@mail.sdu.edu.cn
+
 
 <!---
 srstudy2000/srstudy2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
