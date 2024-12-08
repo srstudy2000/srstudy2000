@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rui Shao
-- 👀 I’m interested in Legal Artificial Intelligence, Deep Learning Interpretability and Computer Vison.
+- 👀 I’m interested in Legal Artificial Intelligence, LLM Unlearning, Deep Learning Interpretability.
 - 📫 Reach me at shaoruistudy@163.com or 	PhD.SR@mail.sdu.edu.cn
 
 
